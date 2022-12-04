@@ -1,8 +1,8 @@
-### Much Pleasure, my name is Ruan Necker
+### Muito parazer, eu me chamo Ruan Necker
 
-- 💻 I work as a front end developer
-- 📒 Studying CSS e JS
-- 📧 Contact me at this email: devruannecker@gmail.com
+- 💻 Eu trabalho como desenvolvedor front end
+- 📒 Estudando CSS e JS
+- 📧 Contato pelo Email: devruannecker@gmail.com
 
 </div>
   <a href="https://github.com/necker1400">
