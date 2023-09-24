@@ -1,7 +1,7 @@
 ### Muito parazer, eu me chamo Ruan Necker
 
-- 💻 Eu trabalho como desenvolvedor front end
-- 📒 Estudando CSS e JS
+- 💻 Sou desenvolvedor Back-end
+- 📒 Estudando Java
 - 📧 Contato pelo Email: devruannecker@gmail.com
 
 </div>
