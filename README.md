@@ -1,9 +1,8 @@
 ### Muito parazer, eu me chamo Ruan Necker
 
 - 💻 Sou desenvolvedor Fullstack
-- 📒 Estudando Engenharia de Software PUCRS 4/8
+- 📒 Estudando Engenharia de Software [PUCRS]((https://github.com/necker1400/EngenhariaDeSoftwarePUCRS)) 4/8
 - 📧 Contato pelo Email: devruannecker@gmail.com
-- [trabalho de exclusão mútua](https://github.com/necker1400/dimexPucrs)
 
 </div>
   <a href="https://github.com/necker1400">
