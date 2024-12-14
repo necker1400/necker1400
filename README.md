@@ -1,7 +1,7 @@
 ### Muito parazer, eu me chamo Ruan Necker
 
-- 💻 Sou desenvolvedor Back-end
-- 📒 Estudando Java/Flutter
+- 💻 Sou desenvolvedor Fullstack
+- 📒 Estudando Engenharia de Software PUCRS 4/8
 - 📧 Contato pelo Email: devruannecker@gmail.com
 
 </div>
