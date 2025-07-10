@@ -1,7 +1,7 @@
 ### Muito parazer, eu me chamo Ruan Necker
 
-- 💻 Desenvolvedor de Software / Especialista em Dados
-- 📒 Estudando [Engenharia de Software - PUCRS](https://github.com/necker1400/EngenhariaDeSoftwarePUCRS) 5/8 (link das atividades realizadas no curso)
+- 💻 Desenvolvedor de Software Backend
+- 📒 Estudando [Engenharia de Software - PUCRS](https://github.com/necker1400/EngenhariaDeSoftwarePUCRS) 6/8 (link das atividades realizadas no curso)
 - 📧 Contato pelo Email: devruannecker@gmail.com
 
 </div>
